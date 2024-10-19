@@ -9,13 +9,6 @@
 html {
   scroll-behavior: smooth;
 }
-body {
-  text-align: center;
-  max-width: 600px;
-  position: relative;
-  margin: auto;
-  background: black;
-}
 .preload {
   position: fixed;
   z-index: 9999;
